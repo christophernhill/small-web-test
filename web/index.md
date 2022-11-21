@@ -1,9 +1,9 @@
 
-<script
+    <script
     type="text/javascript"
     src="//code.jquery.com/jquery-1.9.1.js"
-> 
-</script>
+    > 
+    </script>
 
 
 Candidates are listed in random order.
