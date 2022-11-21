@@ -2,7 +2,7 @@
 
 Candidates are listed in random order.
 
-
+<span class=myCnameSet>
 - <span class=cname> [Julia Damerow](#julia-damerow) </span>
 - [Lauren Milechin](#lauren-milechin) 
 - [Rinku Gupta](#rinku-gupta)
@@ -12,6 +12,8 @@ Candidates are listed in random order.
 - [Keith Beattie](#keith-beattie)
 - [Lance Parsons](#lance-parsons)
 - [Aaron Holmes](#aaron-holmes)
+  
+</span>
 
 
 
