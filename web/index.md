@@ -3,6 +3,7 @@
 Candidates are listed in random order.
 
 <span class=myCnameSet>
+  
 - <span class=cname> [Julia Damerow](#julia-damerow) </span>
 - [Lauren Milechin](#lauren-milechin) 
 - [Rinku Gupta](#rinku-gupta)
