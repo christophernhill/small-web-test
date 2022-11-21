@@ -3,7 +3,7 @@
 Candidates are listed in random order.
 
 
-- <div class=cname> [Julia Damerow](#julia-damerow) </div>
+- <span class=cname> [Julia Damerow](#julia-damerow) </span>
 - [Lauren Milechin](#lauren-milechin) 
 - [Rinku Gupta](#rinku-gupta)
 - [Joshua Teves](#joshua-teves)
