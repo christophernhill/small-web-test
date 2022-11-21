@@ -7,16 +7,18 @@ hello from docs
     
 </script>
 
-<div class="myItems">
-     <div class="item">1</div>
-     <div class="item">2</div>
-     <div class="item">3</div>
+<div class="myList">
+<ul>
+    <li><div class="item">1</div></li>
+    <li><div class="item">2</div></li>
+    <li><div class="item">3</div></li>
+>/ul>
 </div>
 
     <script type="text/javascript">//<![CDATA[
 
 
-$(".myItems").html($(".myItems .item").sort(function(){
+$(".myItems").html($(".myList .item").sort(function(){
     return Math.random()-0.5;
 }));
 
