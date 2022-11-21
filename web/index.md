@@ -5,14 +5,14 @@ Candidates are listed in random order.
 <span class=myCnameSet>
   
 - <span class=cname> [Julia Damerow](#julia-damerow) </span>
-- [Lauren Milechin](#lauren-milechin) 
-- [Rinku Gupta](#rinku-gupta)
-- [Joshua Teves](#joshua-teves)
-- [Kenton McHenry](#kenton-mchenry)
-- [Miranda Mundt](#miranda-mundt)
-- [Keith Beattie](#keith-beattie)
-- [Lance Parsons](#lance-parsons)
-- [Aaron Holmes](#aaron-holmes)
+- <span class=cname>[Lauren Milechin](#lauren-milechin) </span>
+- <span class=cname>[Rinku Gupta](#rinku-gupta) </span>
+- <span class=cname>[Joshua Teves](#joshua-teves) </span>
+- <span class=cname>[Kenton McHenry](#kenton-mchenry) </span>
+- <span class=cname>[Miranda Mundt](#miranda-mundt) </span>
+- <span class=cname>[Keith Beattie](#keith-beattie) </span>
+- <span class=cname>[Lance Parsons](#lance-parsons) </span>
+- <span class=cname>[Aaron Holmes](#aaron-holmes) </span>
   
 </span>
 
